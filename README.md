@@ -2,6 +2,8 @@
 
 Deploy Vue applications on Kubernetes with [Wodby](https://wodby.com).
 
+<!-- wodby:generated:start -->
+
 ## Stack contract
 
 - [Vue stack on Wodby](https://wodby.com/stacks/vue)
@@ -18,3 +20,5 @@ wodby stack validate-manifest stack.yml --org <org-id>
 ```
 
 See the [stack manifest reference](https://wodby.com/docs/2.0/stacks/template/) and [managed stacks index](https://github.com/wodby/stacks).
+
+<!-- wodby:generated:end -->
