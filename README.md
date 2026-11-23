@@ -8,6 +8,7 @@ Deploy Vue applications on Kubernetes with [Wodby](https://wodby.com).
 
 - [Vue stack on Wodby](https://wodby.com/stacks/vue)
 - [Browse Wodby application stacks](https://wodby.com/stacks)
+- [Vue stack guide](https://wodby.com/docs/2.0/stacks/catalog/vue/)
 - [Wodby stack documentation](https://wodby.com/docs/2.0/stacks/)
 - [Stack manifest reference](https://wodby.com/docs/2.0/stacks/template/)
 
